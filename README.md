@@ -1,4 +1,3 @@
-# AspNetCoreCleanArchitecture
 Asp.Net Core Clean Architecture
 
 # Prerequistes
@@ -12,6 +11,10 @@ Asp.Net Core Clean Architecture
 # Run locally
 1. dotnet restore
 2. dotnet watch run
+
+# Migrations
+1. dotnet ef migrations add "Inital State"
+2. dotnet ef database update
 
 # Testing
 1. Go to [Swagger UI] (https://localhost:5001/swagger/index.html)

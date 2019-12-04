@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dell_ssd\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dell_ssd\\.nuget\\packages"
+    ]
+  }
+}

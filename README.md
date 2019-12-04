@@ -13,7 +13,7 @@
 2. dotnet watch run
 
 # Migrations
-1. dotnet ef migrations add "Inital State"
+1. dotnet ef migrations add "Initial State"
 2. dotnet ef database update
 
 # Testing
